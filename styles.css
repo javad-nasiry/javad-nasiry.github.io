@@ -52,9 +52,9 @@ header {
 }
 
 .profile-photo {
-  width: 50px !important;
-  height: 50px !important;
-  max-width: 50px !important;
+  width: 75px !important;
+  height: 75px !important;
+  max-width: 75px !important;
   flex-shrink: 0;
   display: block;
   object-fit: cover;
